@@ -22,6 +22,10 @@ header h1 {
     letter-spacing: 1px;
 }
 
+.yup{
+    font-size: 100px;
+}
+
 
 nav ul {
     list-style-type: none;
