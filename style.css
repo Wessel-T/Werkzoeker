@@ -22,8 +22,8 @@ header h1 {
     letter-spacing: 1px;
 }
 
-.yup{
-    font-size: 100px;
+.yuh{
+    font-size: 30px;
 }
 
 
@@ -185,4 +185,8 @@ footer a:hover {
     button {
         width: 100%;
     }
+}
+
+section{
+    font-size: 20px;
 }
